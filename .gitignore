@@ -1,0 +1,13 @@
+# Environment variables
+.env
+*.env
+
+AzureLLMInferenceTrace_code_1week.csv
+AzureLLMInferenceTrace_conv_1week.csv
+trace_profiles.csv
+modes.csv
+demand_params.json
+fig_ieee30.pdf
+fig_ieee30.png
+pglib_opf_case30_as.m
+ieee30_grid.npz
