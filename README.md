@@ -10,7 +10,7 @@ We clear compute and electricity in a single linear program. The compute price i
 - **GPU scarcity:** the available GPUs
 - **SLO headroom:** spare capacity reserved to meet latency targets
 
-![Overview](light_diagram.svg)
+![alt text](light_diagram1.svg)
 
 ## A simple example
 
