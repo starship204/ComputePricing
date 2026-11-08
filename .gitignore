@@ -11,3 +11,10 @@ fig_ieee30.pdf
 fig_ieee30.png
 pglib_opf_case30_as.m
 ieee30_grid.npz
+request_coefficients.csv
+demand_req_s.npy
+fig_clearing.pdf
+fig_decomposition.pdf
+fig_input_output.pdf
+fig_price_day.pdf
+fig_slo_sweep.pdf
