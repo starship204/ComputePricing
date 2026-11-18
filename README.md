@@ -5,7 +5,7 @@ Note: the repository is being updated with additional comments.
 ```
 
 
-Code for the paper *"Locational Marginal Pricing of Compute: Co-optimizing Compute and Energy for Transparent Data Center Flexibility"* by Vladimir Pyltsov and Teng Zeng ([arXiv](ADD_LINK)).
+Code for the paper *"Locational Marginal Pricing of Compute: Co-optimizing Compute and Energy for Transparent Data Center Flexibility"* by Vladimir Pyltsov and Teng Zeng ([arXiv](https://arxiv.org/pdf/2611.20116)).
 
 We clear compute and electricity in a single linear program. The compute price is the dual of the binding constraints, so it follows real-time grid and data center conditions. It also splits into components that show what makes compute expensive:
 
@@ -75,7 +75,7 @@ HF_TOKEN=your_token_here
   title  = {Locational Marginal Pricing of Compute: Co-optimizing Compute and Energy for Transparent Data Center Flexibility},
   author = {Pyltsov, Vladimir and Zeng, Teng},
   year   = {2026},
-  note   = {arXiv preprint arXiv:XXXX.XXXXX}
+  note   = {arXiv preprint arXiv:2611.20116}
 }
 ```
 
